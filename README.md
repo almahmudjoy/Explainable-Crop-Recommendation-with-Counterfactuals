@@ -61,7 +61,6 @@ By integrating **SHAP** and **DiCE** (for counterfactual explanations), this fra
 - **Target:** Crop Type  
 
 <img width="1073" height="470" alt="image" src="https://github.com/user-attachments/assets/b26d8160-021f-4e93-a85c-7208f89e6921" />
-
 <img width="710" height="601" alt="image" src="https://github.com/user-attachments/assets/7443d543-b8a6-437b-8dad-7bd8525c58de" />
 
 ---
