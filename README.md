@@ -142,13 +142,13 @@ Teaching Assistant at BUBT | AI & Deep Learning Enthusiast
 ## 🏁 Citation
 
 If you use this work, please cite as:
-@misc{joy2025xaicrop,
+
+**@misc{joy2025xaicrop,
 title={XAI-Crop: An Explainable Counterfactual Framework for Actionable Crop Recommendation},
 author={Abdullah Al Mahmud Joy},
 year={2025},
 url={https://colab.research.google.com/drive/14FgHAon_9et9rjTe86BKtmzz5f2_tuH7#scrollTo=prElcSFjaB17}
-
-}
+}**
 
 ---
 
